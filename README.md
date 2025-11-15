@@ -4,13 +4,17 @@ A React Native app built with Expo and NativeWind that displays real-time prices
 
 ## Screenshots
 
-### Home Page
-- **Light Mode**: ![Home Page Light Mode](https://res.cloudinary.com/dykzzd9sy/image/upload/v1763230127/met-light_vxdp6r.jpg)
-- **Dark Mode**: ![Home Page Dark Mode](https://res.cloudinary.com/dykzzd9sy/image/upload/v1763230109/met-dark_z1mvxt.jpg)
+### Home & Details Pages (Light & Dark)
 
-### Metal Details Page
-- **Light Mode**: ![Details Page Light Mode](https://res.cloudinary.com/dykzzd9sy/image/upload/v1763230110/det-light_feorib.jpg)
-- **Dark Mode**: ![Details Page Dark Mode](https://res.cloudinary.com/dykzzd9sy/image/upload/v1763230109/det-dark_bkziqj.jpg)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
+<img src="https://res.cloudinary.com/dykzzd9sy/image/upload/v1763230127/met-light_vxdp6r.jpg" width="250" />
+<img src="https://res.cloudinary.com/dykzzd9sy/image/upload/v1763230109/met-dark_z1mvxt.jpg" width="250" />
+
+<img src="https://res.cloudinary.com/dykzzd9sy/image/upload/v1763230110/det-light_feorib.jpg" width="250" />
+<img src="https://res.cloudinary.com/dykzzd9sy/image/upload/v1763230109/det-dark_bkziqj.jpg" width="250" />
+
+</div>
 
 ## Get started
 
